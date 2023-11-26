@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d46b32c5-df3f-4072-9896-f07cbe030094" name="Default Changelist" comment="bumped version to 0.3.19" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/config.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/functions/openCommentsThread.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/providers/ExtensionWebView/messages.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.eslintrc.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/constants.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/providers/FileWebView/helpers.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/providers/ExtensionWebView/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/providers/StateTogglers/index.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1n68rOlWO6J9oWbmROhhS8U3NSh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v16.4.0/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d46b32c5-df3f-4072-9896-f07cbe030094" name="Default Changelist" comment="" />
+      <created>1610699377507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610699377507</updated>
+      <workItem from="1610699379269" duration="3781000" />
+      <workItem from="1610710488513" duration="210000" />
+      <workItem from="1610710709340" duration="599000" />
+      <workItem from="1610713512119" duration="47000" />
+      <workItem from="1612111023175" duration="4339000" />
+      <workItem from="1612285130802" duration="46000" />
+      <workItem from="1632665085540" duration="2598000" />
+      <workItem from="1632733999382" duration="598000" />
+      <workItem from="1632767433507" duration="430000" />
+      <workItem from="1633016134298" duration="2487000" />
+      <workItem from="1633114616259" duration="3903000" />
+      <workItem from="1649509406383" duration="8879000" />
+      <workItem from="1649827941367" duration="318000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated login message">
+      <created>1610703299818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610703299818</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated help url">
+      <created>1632665709575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632665709575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- updated logo&#10;- fixed forum url">
+      <created>1632666971819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632666971819</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed logo url">
+      <created>1632667079013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632667079014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed SSL error">
+      <created>1633016152879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633016152879</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+ fixed SSL error in getTasks and submitTask">
+      <created>1633018896985</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633018896985</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed running React tasks on windows;&#10;added optional entry point param to support internal folders for&#10;React and RN tasks;">
+      <created>1649523462406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649523462408</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bumped version to 0.3.19">
+      <created>1649525693242</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649525693242</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated login message" />
+    <MESSAGE value="updated help url" />
+    <MESSAGE value="- updated logo&#10;- fixed forum url" />
+    <MESSAGE value="fixed logo url" />
+    <MESSAGE value="fixed SSL error" />
+    <MESSAGE value="+ fixed SSL error in getTasks and submitTask" />
+    <MESSAGE value="fixed running React tasks on windows;&#10;added optional entry point param to support internal folders for&#10;React and RN tasks;" />
+    <MESSAGE value="bumped version to 0.3.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="bumped version to 0.3.19" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
